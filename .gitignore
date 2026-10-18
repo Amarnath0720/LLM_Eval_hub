@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+.venv-1/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+.history/
+Thumbs.db
+
+# Logs
+*.log
+*.out
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Generated test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+*.db-wal
+*.db-shm
+*.sqlite-wal
+*.sqlite-shm
+
+# Local evaluation output
+eval_results/
+evaluation_results/

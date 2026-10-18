@@ -1,0 +1,5 @@
+{
+  "version": "v1",
+  "name": "Clear answer",
+  "template": "Answer the question clearly and accurately. Use the supplied context when relevant. If the context does not contain enough information, say so rather than inventing details."
+}

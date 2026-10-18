@@ -1,0 +1,5 @@
+{
+  "version": "v2",
+  "name": "Evidence-focused answer",
+  "template": "Answer the question using the supplied context as your primary source. Be concise, distinguish supported facts from uncertainty, and do not add unsupported claims."
+}
