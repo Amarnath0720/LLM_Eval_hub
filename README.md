@@ -221,4 +221,4 @@ Possible extensions include schema migrations, authentication, richer evaluation
 
 ## Repository
 
-Source repository: [pudarivyshnavi/LLM_Evaluation_Dashboard](https://github.com/pudarivyshnavi/LLM_Evaluation_Dashboard)
+Source repository: [Amarnath0720/LLM_Eval_hub](https://github.com/Amarnath0720/LLM_Eval_hub)
